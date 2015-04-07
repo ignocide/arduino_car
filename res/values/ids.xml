@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tem_val">false</item>
+    <item type="id" name="hum_val">false</item>
+    <item type="id" name="dis_val">false</item>
+    <item type="id" name="shock_val">false</item>
+    <item type="id" name="gyro_x_val">false</item>
+    <item type="id" name="gyro_y_val">false</item>
+    <item type="id" name="gyro_z_val">false</item>
+    <item type="id" name="tem">false</item>
+    <item type="id" name="hum">false</item>
+    <item type="id" name="dis">false</item>
+    <item type="id" name="shock">false</item>
+    <item type="id" name="gyro_x">false</item>
+    <item type="id" name="gyro_y">false</item>
+    <item type="id" name="gyro_z">false</item>
+    <item type="id" name="speed">false</item>
+    <item type="id" name="speed_val">false</item>
+</resources>

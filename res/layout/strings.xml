@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">BluCar</string>
+<string name="appVersion">1.1</string>
+<string name="hello">BluCar Control Center</string>
+<string name="ledON">자동차 정보 보기</string>
+<string name="ledOFF">자동차 정보 보기</string>
+<string name="forward">Forward</string>
+<string name="reverse">Reverse</string>
+<string name="acc_default">X-axis data:</string>
+<string name="connected">Disconnect from device</string>
+<string name="disconnected">Connect to a device</string>
+<string name="no_bt_device">Bluetooth is not available.</string>
+<string name="bt_not_enabled_leaving">Bluetooth was not enabled.</string>
+<string name="macFailed">Error retrieving MAC address.</string>
+<string name="about_title">About</string>
+<string name="aboutText">Application created by Eirik Taylor, 2011. \n\n If you wish to contact me, my email address can be found on my webpage.\n</string>
+<string name="website_url">http://uzzors2k.4hv.org/index.php?page=blucar</string>
+<string name="websiteButton">Visit Website</string>
+<string name="okButton">OK</string>
+<string name="pleaseWait">Please Wait</string>
+<string name="makingConnectionString">Connecting to bluetooth device...</string>
+<string name="failedToConnect">Failed to connect to device.</string>
+<string name="view_val">view_val</string>
+<!-- DeviceListActivity -->
+ <string name="scanning">scanning for devices...</string>
+ <string name="select_device">select a device to connect</string>
+ <string name="none_paired">No devices have been paired</string>
+ <string name="none_found">No devices found</string>
+ <string name="title_paired_devices">Paired Devices</string>
+ <string name="title_other_devices">Other Available Devices</string>
+ <string name="button_scan">Scan for devices</string>
+
+<string name="tem">온도 = </string>
+<string name="hum">습도 = </string>
+<string name="dis">거리 = </string>
+<string name="gyro_x">x축 = </string>
+<string name="gyro_y">y축 = </string>
+<string name="gyro_z">z축 = </string>
+<string name="speed">속도 = </string>
+</resources>
