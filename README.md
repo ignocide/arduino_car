@@ -7,7 +7,7 @@ watching demo in [here!](https://www.youtube.com/watch?v=IDVQo3owNIs)
 
 안드로이드 어플리케이션은 조이스틱과 블루투스 예제를 이용하여 간단하게 만들었습니다.
 
-![car](https://github.com/ignocide/arduino_car/car.png)
-![android](https://github.com/ignocide/arduino_car/android.png)
+![car](https://github.com/ignocide/arduino_car/blob/master/car.png)
+![android](https://github.com/ignocide/arduino_car/blob/master/android.png)
   
 
